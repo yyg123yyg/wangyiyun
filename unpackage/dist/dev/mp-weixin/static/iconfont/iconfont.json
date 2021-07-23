@@ -1,0 +1,191 @@
+{
+  "id": "2432404",
+  "name": "font",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1488892",
+      "name": "播放",
+      "font_class": "bofang",
+      "unicode": "e607",
+      "unicode_decimal": 58887
+    },
+    {
+      "icon_id": "1488905",
+      "name": "暂停",
+      "font_class": "zanting",
+      "unicode": "e60c",
+      "unicode_decimal": 58892
+    },
+    {
+      "icon_id": "19254962",
+      "name": "分 享",
+      "font_class": "fenxiang",
+      "unicode": "e6d1",
+      "unicode_decimal": 59089
+    },
+    {
+      "icon_id": "19977229",
+      "name": "首页-选中",
+      "font_class": "index",
+      "unicode": "e60e",
+      "unicode_decimal": 58894
+    },
+    {
+      "icon_id": "3267410",
+      "name": "搜索",
+      "font_class": "sousuo",
+      "unicode": "e618",
+      "unicode_decimal": 58904
+    },
+    {
+      "icon_id": "19985212",
+      "name": "首页-选中",
+      "font_class": "index-copy",
+      "unicode": "e622",
+      "unicode_decimal": 58914
+    },
+    {
+      "icon_id": "1841666",
+      "name": "电台",
+      "font_class": "diantai",
+      "unicode": "e621",
+      "unicode_decimal": 58913
+    },
+    {
+      "icon_id": "16117684",
+      "name": "排行榜",
+      "font_class": "paihangbang",
+      "unicode": "e60f",
+      "unicode_decimal": 58895
+    },
+    {
+      "icon_id": "17542037",
+      "name": "每日推荐",
+      "font_class": "tuijian",
+      "unicode": "e629",
+      "unicode_decimal": 58921
+    },
+    {
+      "icon_id": "17759501",
+      "name": "其他",
+      "font_class": "qita",
+      "unicode": "e61e",
+      "unicode_decimal": 58910
+    },
+    {
+      "icon_id": "19490749",
+      "name": "直播",
+      "font_class": "zhibo",
+      "unicode": "f149",
+      "unicode_decimal": 61769
+    },
+    {
+      "icon_id": "16020747",
+      "name": "折叠2",
+      "font_class": "zhedie2",
+      "unicode": "e620",
+      "unicode_decimal": 58912
+    },
+    {
+      "icon_id": "17766326",
+      "name": "折叠",
+      "font_class": "shouqi",
+      "unicode": "e87f",
+      "unicode_decimal": 59519
+    },
+    {
+      "icon_id": "933641",
+      "name": "数据",
+      "font_class": "shuju",
+      "unicode": "e617",
+      "unicode_decimal": 58903
+    },
+    {
+      "icon_id": "947482",
+      "name": "商品",
+      "font_class": "shangpin",
+      "unicode": "e648",
+      "unicode_decimal": 58952
+    },
+    {
+      "icon_id": "975385",
+      "name": "订单",
+      "font_class": "single",
+      "unicode": "e6bd",
+      "unicode_decimal": 59069
+    },
+    {
+      "icon_id": "15014204",
+      "name": "权限",
+      "font_class": "quanxian",
+      "unicode": "e610",
+      "unicode_decimal": 58896
+    },
+    {
+      "icon_id": "1613371",
+      "name": "密码",
+      "font_class": "mima",
+      "unicode": "e606",
+      "unicode_decimal": 58886
+    },
+    {
+      "icon_id": "354565",
+      "name": "对",
+      "font_class": "iconfontcheck",
+      "unicode": "e61b",
+      "unicode_decimal": 58907
+    },
+    {
+      "icon_id": "1110403",
+      "name": "箭头 三角形",
+      "font_class": "jiantou1",
+      "unicode": "e603",
+      "unicode_decimal": 58883
+    },
+    {
+      "icon_id": "1110404",
+      "name": "箭头 左 小",
+      "font_class": "jiantou2",
+      "unicode": "e604",
+      "unicode_decimal": 58884
+    },
+    {
+      "icon_id": "6318181",
+      "name": "错",
+      "font_class": "cuo",
+      "unicode": "e60b",
+      "unicode_decimal": 58891
+    },
+    {
+      "icon_id": "7391189",
+      "name": "定位",
+      "font_class": "dingwei",
+      "unicode": "e642",
+      "unicode_decimal": 58946
+    },
+    {
+      "icon_id": "10156166",
+      "name": "箭头",
+      "font_class": "jiantou",
+      "unicode": "e624",
+      "unicode_decimal": 58916
+    },
+    {
+      "icon_id": "16271659",
+      "name": "购物车",
+      "font_class": "gouwuche1",
+      "unicode": "e605",
+      "unicode_decimal": 58885
+    },
+    {
+      "icon_id": "9232993",
+      "name": "头像",
+      "font_class": "touxiang",
+      "unicode": "e640",
+      "unicode_decimal": 58944
+    }
+  ]
+}
